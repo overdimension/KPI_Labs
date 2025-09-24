@@ -7,7 +7,7 @@ const array = [
 const countingTypes = {string: 0, boolean: 0, number: 0};
 
 for (const item of array) {
-    const type = typeof i;
+    const type = typeof item;
     countingTypes[type]++;
 }
 
