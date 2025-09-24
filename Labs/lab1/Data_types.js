@@ -1,4 +1,4 @@
-//Example 1
+/*Example 1*/
 const array = [
   true, 'hello', 5, 12, -200, false, false, 'word',
   3.14, 'JavaScript', true, 0, 'GPT', 42, 'bye', false, 51

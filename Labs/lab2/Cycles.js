@@ -1,4 +1,4 @@
-//Example 1
+/*Example 1*/
 function range(start, end) {
     const array = [];
     for (let item = start; item <= end; item++) {
@@ -9,7 +9,7 @@ function range(start, end) {
 
 console.log(range(15, 30));
 
-//Example 2
+/*Example 2*/
 function rangeOdd(start, end) {
     const arrayOdd = [];
     for (let item = start; item <= end; item++) {
